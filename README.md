@@ -6,6 +6,6 @@ LaTeX (pronounced as ‘Lah-teck’) is a free-to-use, document-preparation plat
 
 ### [Download materials prepared during the session](https://github.com/Nur-Taz/Easy-Manuscript-Preparation-with-LaTeX/blob/master/my_first_LaTeX.zip)
 
-### [Google Scholar Widget to get citation for .bib file](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en)
+### [Google Scholar Widget to get citations info for .bib file](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en)
 
 
