@@ -8,4 +8,6 @@ LaTeX (pronounced as ‘Lah-teck’) is a free-to-use, document-preparation plat
 
 ### [Google Scholar Widget to get citations info for .bib file](https://chrome.google.com/webstore/detail/google-scholar-button/ldipcbpaocekfooobnbcddclnhejkcpn?hl=en)
 
+### [Extracting references from EndNote to BibTeX format](https://github.com/Nur-Taz/Easy-Manuscript-Preparation-with-LaTeX/blob/master/Export_EndNote_to_BibTeX.mp4)
+
 
